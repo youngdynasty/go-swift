@@ -1,6 +1,6 @@
 # Embedding Go in a Mac App
 
-This repository is a sample project complimenting a [blog post](https://youngdynasty.net/posts/writing-mac-apps-in-go/) on writing Mac apps in Go.
+This repository is a sample project complementing a [blog post](https://youngdynasty.net/posts/writing-mac-apps-in-go/) on writing Mac apps in Go.
 
 ## Prerequisites
 
